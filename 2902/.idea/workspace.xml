@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3580585e-eaf7-437d-8a5b-599588b88bd1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../10808/10808.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10808/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10814/10814.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10814/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10953/10953.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10953/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11718/11718.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11718/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11719/11719.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11719/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11721/11721.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11721/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1181/1181.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1181/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1181_01/1181_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1181_01/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1316/1316.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1316/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1427/1427.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1427/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2902.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../booleanTest/booleanTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../booleanTest/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1tk7gpY1AsJeD2hc35D6u4rmcsL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="2902" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3580585e-eaf7-437d-8a5b-599588b88bd1" name="Default Changelist" comment="" />
+      <created>1623301348013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623301348013</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
