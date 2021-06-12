@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3e27208-d784-4326-998a-fbff98331bf6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../1032/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10610/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10988/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1100/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1158/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1212/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1759/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2743/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4949/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5430/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1764/out/production/1764/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1764/out/production/1764/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1764/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1764/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1tqMuQsaqnk0dzshdnLHOcTo2ht" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3e27208-d784-4326-998a-fbff98331bf6" name="Default Changelist" comment="" />
+      <created>1623492389101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623492389101</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
